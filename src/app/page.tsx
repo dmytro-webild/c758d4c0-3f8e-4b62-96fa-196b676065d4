@@ -216,9 +216,9 @@ export default function LandingPage() {
       <FooterLogoReveal
       logoText="Unicorn Plumbing"
       leftLink={{
-        text: "Fully insured & certified",        href: "#"}},
+        text: "Fully insured & certified",        href: "#"}}
       rightLink={{
-        text: "Contact Us: 555-0199",        href: "tel:5550199"}},
+        text: "Contact Us: 555-0199",        href: "tel:5550199"}}
     />
   </div>
       </ReactLenis>
