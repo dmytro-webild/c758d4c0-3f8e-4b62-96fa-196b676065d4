@@ -107,17 +107,17 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         {
-          id: "s1",          name: "Emergency Repairs",          price: "Get Quote",          imageSrc: "http://img.b2bpic.net/free-photo/man-rinsing-dish-sponge-running-water-daily-home-hygiene_169016-69431.jpg"},
+          id: "s1",          name: "Emergency Repairs",          price: "Request Pricing",          imageSrc: "http://img.b2bpic.net/free-photo/man-rinsing-dish-sponge-running-water-daily-home-hygiene_169016-69431.jpg"},
         {
-          id: "s2",          name: "Leak Detection",          price: "Get Quote",          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-still-life-assortment-pvc_23-2149062953.jpg"},
+          id: "s2",          name: "Leak Detection",          price: "Request Pricing",          imageSrc: "http://img.b2bpic.net/high-angle-still-life-assortment-pvc_23-2149062953.jpg"},
         {
-          id: "s3",          name: "Drain Unblocking",          price: "Get Quote",          imageSrc: "http://img.b2bpic.net/free-photo/suitcase-with-necktie-father-s-day_23-2147631315.jpg"},
+          id: "s3",          name: "Drain Unblocking",          price: "Request Pricing",          imageSrc: "http://img.b2bpic.net/free-photo/suitcase-with-necktie-father-s-day_23-2147631315.jpg"},
         {
-          id: "s4",          name: "Boiler Repairs",          price: "Get Quote",          imageSrc: "http://img.b2bpic.net/free-photo/female-plumber-working-fix-problems-client-s-house_23-2150990731.jpg"},
+          id: "s4",          name: "Boiler Repairs",          price: "Request Pricing",          imageSrc: "http://img.b2bpic.net/free-photo/female-plumber-working-fix-problems-client-s-house_23-2150990731.jpg"},
         {
-          id: "s5",          name: "Bathroom Installations",          price: "Get Quote",          imageSrc: "http://img.b2bpic.net/free-photo/plumbing-professional-doing-his-job_23-2150721526.jpg"},
+          id: "s5",          name: "Bathroom Installations",          price: "Request Pricing",          imageSrc: "http://img.b2bpic.net/free-photo/plumbing-professional-doing-his-job_23-2150721526.jpg"},
         {
-          id: "s6",          name: "General Maintenance",          price: "Get Quote",          imageSrc: "http://img.b2bpic.net/free-photo/3d-geometric-abstract-background_1048-13139.jpg"},
+          id: "s6",          name: "General Maintenance",          price: "Request Pricing",          imageSrc: "http://img.b2bpic.net/free-photo/3d-geometric-abstract-background_1048-13139.jpg"},
       ]}
       title="Expert Plumbing Services"
       description="Comprehensive solutions tailored for high-end residential needs."
@@ -216,9 +216,9 @@ export default function LandingPage() {
       <FooterLogoReveal
       logoText="Unicorn Plumbing"
       leftLink={{
-        text: "Fully insured & certified",        href: "#"}}
+        text: "Fully insured & certified",        href: "#"}},
       rightLink={{
-        text: "Contact Us: 555-0199",        href: "tel:5550199"}}
+        text: "Contact Us: 555-0199",        href: "tel:5550199"}},
     />
   </div>
       </ReactLenis>
